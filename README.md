@@ -44,4 +44,5 @@ python data_check.py <输入> -o 核查结果.xlsx
 
 ## License
 
-MIT
+
+本项目基于 [MIT License](./LICENSE) 开源，可自由使用、修改和分发。欢迎按需二次开发。
